@@ -59,7 +59,5 @@ hoppy1 > FriendHoppy2
 // Name
 Name == FriendName
 Name != FriendName
-Name <= FriendName
-Name >= FriendName
-Name < FriendName
-Name > FriendName
+
+
